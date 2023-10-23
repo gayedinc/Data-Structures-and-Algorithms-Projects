@@ -52,8 +52,8 @@ Answer a:
 ##### b) Big-O gösterimini yazınız.
 
 ```
-Answer b:   
-                             O(n^2)
+Answer b:
+n + (n-1) + (n-2) + (n-3) + (n-4) + 1 -----> (n * (n+1)) / 2 -----> (n^2) * n / 2 -----> O(n^2)
 ```
     
 

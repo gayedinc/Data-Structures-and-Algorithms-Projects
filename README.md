@@ -1,11 +1,12 @@
 # Data-Structures-and-Algorithms-Projects
-Patika.dev Başlangıç Seviye Front End Patikası - Veri Yapılari ve Algoritmalar - Ödev
+
+Patika.dev Beginner Level Front End Path - Data Structures and Algorithms - Homework
 
 # Selection-Insertion-Sort
 
 ### Selection Sort
 
-#### Soru 1)
+#### Question 1)
 
 ````
                                    [7,3,5,8,2,9,4,15,6]
@@ -25,7 +26,7 @@ Answer:
 
 ### Insertion Sort
 
-#### Soru 2)
+#### Question 2)
 
 ```` 
                                    [22,27,16,2,18,6] 
@@ -71,7 +72,7 @@ Answer c:
 
 # Merge Sort
 
-#### Soru 1) 
+#### Question 1) 
 ```
                             [16,21,11,8,12,22]
 ```
@@ -102,7 +103,7 @@ Answer b:
 
 # Binary Search Tree 
 
-#### Soru 1) 
+#### Question 1) 
 ```
 [7,5,1,8,3,6,0,9,4,2]
 ```
